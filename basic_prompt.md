@@ -1,15 +1,23 @@
 # Basic Prompt
 
-Solve the Missing Dollar Puzzle.
+Solve the following puzzle.
 
 Three friends rent a hotel room for €300.
 
-Each one pays €100.
+Each pays €100.
 
-Later the manager realizes the room should cost €250.
+Later, the hotel manager realizes the room should cost only €250.
 
 He gives the bellboy €50 to return.
 
-The bellboy keeps €20 and returns €10 to each friend.
+The bellboy secretly keeps €20 and gives €10 back to each friend.
+
+Now each friend has effectively paid €90.
+
+3 × €90 = €270
+
+Bellboy kept €20
+
+€270 + €20 = €290
 
 Where is the missing €10?
