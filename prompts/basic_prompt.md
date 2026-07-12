@@ -4,7 +4,7 @@ Solve the following puzzle.
 
 Three friends rent a hotel room for €300.
 
-Each pays €100.
+Each one pays €100.
 
 Later, the hotel manager realizes the room should cost only €250.
 
